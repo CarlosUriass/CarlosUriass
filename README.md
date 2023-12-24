@@ -1,8 +1,45 @@
-- 👋 Hi, I’m @CarlosUriass
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
+Hey there! 👋 I'm Carlos Urias, a dedicated student on a mission to conquer the world of Software Engineering and Computer Science. 🌐 I firmly believe that continuous learning is the 🔑 to success in the digital age.
+
+Throughout my academic journey, I've dived deep into the intricacies of the software and computing world, always hungry for knowledge and new experiences. 🧠 My philosophy centers around lifelong learning, and I'm convinced that education is a powerful tool for change.
+
+I see the potential for science, mathematics, engineering, and technology to drive Latin America forward. 🚀 My dedication extends beyond personal growth; I embrace the opportunity to teach and share knowledge. 👨‍🏫
+
+## 👨‍💻 What I Do
+- 🚀 **Never Stop Learning:** Passionate about continuous learning and personal growth in the ever-evolving realm of software engineering and computer science.
+
+- 💡 **Develop Innovative Solutions:** Creator of clever solutions that tackle problems and boost efficiency, blending creativity with technical skills.
+
+- 🤝 **Collaborate for Success:** Advocate for effective collaboration, working as a team to achieve common goals and succeed in joint projects.
+
+
+### 🔧 Skills
+- **Programming Languages:** Python, C++, JavaScript
+- **Web Development:** HTML, CSS, JavaScript
+- **Database Management:** SQL
+- **Tools & Technologies:** Git, VS Code, Docker, Matplotlib, Numpy
+
+- ### 🌎 Languages
+- **Spanish:** Native
+- **English:** Proficient
+- **Portuguese:** Conversational
+
+- ### 🎓 Education
+- **Currently Pursuing:** Software Engineering, Autonomous University of Sinaloa, Mexico
+
+- ### 📚 Blogging
+- **Science & Tech Enthusiast:** Check out my [blog](https://carlosurias.netlify.app/) where I share insights on science, technology, engineering, and mathematics (STEM). 🌐✨
+
+### 🚀 Platzi Profile
+- Explore my learning journey on [Platzi](https://platzi.com/p/hicarlosurias/) and discover additional courses and achievements in the world of technology. 🌟
+
+I believe in the value of building a community of learners, where everyone benefits from the exchange of ideas and collaboration. 🌱 Education is a shared journey, and I'm committed to contributing to the growth of those around me.
+
+Together, let's propel the potential of Latin America to new heights! 🚀
+
+
+
 
 <!---
 CarlosUriass/CarlosUriass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
