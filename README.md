@@ -1,6 +1,6 @@
 
 
-Hey there! 👋 I'm Carlos Urias, a dedicated student on a mission to conquer the world of Software Engineering and Computer Science. 🌐 I firmly believe that continuous learning is the 🔑 to success in the digital age.
+Hey there! 👋 I'm Carlos Urias, a dedicated student on a mission to conquer the world of Software Engineering and Computer Science. 🌐 
 
 Throughout my academic journey, I've dived deep into the intricacies of the software and computing world, always hungry for knowledge and new experiences. 🧠 My philosophy centers around lifelong learning, and I'm convinced that education is a powerful tool for change.
 
@@ -15,10 +15,10 @@ I see the potential for science, mathematics, engineering, and technology to dri
 
 
 ### 🔧 Skills
-- **Programming Languages:** Python, C++, JavaScript
+- **Programming Languages:** Python, .NET, Javascript
 - **Web Development:** HTML, CSS, JavaScript
 - **Database Management:** SQL
-- **Tools & Technologies:** Git, VS Code, Docker, Matplotlib, Numpy
+- **Tools & Technologies:** Git, VS Code, Matplotlib, Numpy
 
 - ### 🌎 Languages
 - **Spanish:** Native
@@ -29,10 +29,7 @@ I see the potential for science, mathematics, engineering, and technology to dri
 - **Currently Pursuing:** Software Engineering, Universidad Autonoma de Sinaloa, Mexico
 
 - ### 📚 Blogging
-- **Science & Tech Enthusiast:** Check out my [blog](https://carlosurias.netlify.app/) where I share insights on science, technology, engineering, and mathematics (STEM). 🌐✨
-
-### 🚀 Platzi Profile
-- Explore my learning journey on [Platzi](https://platzi.com/p/hicarlosurias/) and discover additional courses and achievements in the world of technology. 🌟
+- **Science & Tech Enthusiast:** Check out my [blog](https://carlosurias.com/) where I share insights on science, technology, engineering, and mathematics (STEM). 🌐✨
 
 I believe in the value of building a community of learners, where everyone benefits from the exchange of ideas and collaboration. 🌱 Education is a shared journey, and I'm committed to contributing to the growth of those around me.
 
