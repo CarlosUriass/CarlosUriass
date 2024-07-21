@@ -28,8 +28,6 @@ I see the potential for science, mathematics, engineering, and technology to dri
 - ### 🎓 Education
 - **Currently Pursuing:** Software Engineering, Universidad Autonoma de Sinaloa, Mexico
 
-- ### 📚 Blogging
-- **Science & Tech Enthusiast:** Check out my [blog](https://carlosurias.com/) where I share insights on science, technology, engineering, and mathematics (STEM). 🌐✨
 
 I believe in the value of building a community of learners, where everyone benefits from the exchange of ideas and collaboration. 🌱 Education is a shared journey, and I'm committed to contributing to the growth of those around me.
 
